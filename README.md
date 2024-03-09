@@ -3,7 +3,7 @@
 <h2>My Java Data Structures and Algorithms) Projects:</h2>
 
 - <b>Intro to Computer Science (CS1)</b>
-  - [Bridge Toll]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Gerardos0/Bridge-Toll/blob/main/bridgeToll.java))
+  - [Bridge Toll](https://github.com/Gerardos0/Bridge-Toll/blob/main/bridgeToll.java)
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
