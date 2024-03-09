@@ -4,7 +4,7 @@
 
 - <b>Intro to Computer Science (CS1)</b>
   - [Bridge Toll](https://github.com/Gerardos0/Bridge-Toll/blob/main/bridgeToll.java)
-  - [Library System](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Library System]([https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm](https://github.com/Gerardos0/CS1--Library-System))
 
 <h2>📺 Popular YouTube Videos</h2>
 
