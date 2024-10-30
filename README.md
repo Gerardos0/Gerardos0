@@ -1,8 +1,8 @@
 <h1>Hi, I'm Gerardo! </h1>
 
-<h2>My Java Data Structures and Algorithms) Projects:</h2>
+<h2>My Java Projects:</h2>
 
-- <b>Intro to Computer Science (CS1)</b>
+- <b>Advanced Object Oriented Programming (CS1)</b>
   - [Bank System(in progress)](https://github.com/Gerardos0/Bank-System)
 
 
