@@ -2,7 +2,7 @@
 
 <h2>My Java Projects:</h2>
 
-- <b>Advanced Object Oriented Programming (CS1)</b>
+- <b>Advanced Object Oriented Programming </b>
   - [Bank System(in progress)](https://github.com/Gerardos0/Bank-System)
 
 
