@@ -10,7 +10,7 @@
 <h2> Connect with me at:</h2>
 
 <a href="https://www.linkedin.com/in/gerardo-sillas-1aa546291/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Gerardo Sillas | LinkedIn" width="20" style="vertical-align: middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Gerardo Sillas | LinkedIn" width="50" style="vertical-align: middle;"/>
 </a>
 
 
