@@ -4,7 +4,7 @@
 
 - <b>Advanced Object Oriented Programming </b>
   - [Bank System](https://github.com/Gerardos0/Bank-System.git)
-    <b>[Bank System Java Docs](https://gerardos0.github.io/Bank-System/)<\b>
+    <b>[Bank System Java Docs](https://gerardos0.github.io/Bank-System/)</b>
 
 
 
