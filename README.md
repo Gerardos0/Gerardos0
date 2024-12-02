@@ -3,7 +3,7 @@
 <h2>My Java Projects:</h2>
 
 - <b>Advanced Object Oriented Programming </b>
-  - [Bank System](https://github.com/Gerardos0/Bank-System.git)</br>
+  - [Bank System](https://github.com/Gerardos0/Bank-System.git)<br>
   - [Bank System Java Docs](https://gerardos0.github.io/Bank-System/)
 
 
