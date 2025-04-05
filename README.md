@@ -2,11 +2,12 @@
 
 <h2>My Java Projects:</h2>
 
+- <b>Operating Systems</b>
+  - [Simple Custom Unix Shell](https://github.com/Gerardos0/gerardosh.git)
 - <b>Advanced Object Oriented Programming</b>  
   - [Bank System](https://github.com/Gerardos0/Bank-System.git)<br>
   [Bank System Java Doc Comments](https://gerardos0.github.io/Bank-System/)
-- <b>Operating Systems</b>
-  - [Simple Custom Unix Shell](https://github.com/Gerardos0/gerardosh.git)
+
 
 
 
