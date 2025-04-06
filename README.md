@@ -19,7 +19,7 @@
 
 
 <h2> Connect with me at:</h2>
-<small><b>(click the picture)</b></small><br><br>
+<small><small><b>(click the picture)</b></small></small><br><br>
 
 <a href="https://www.linkedin.com/in/gerardo-sillas-1aa546291/" target="_blank" rel="noopener noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Gerardo Sillas | LinkedIn" width="50" style="vertical-align: middle;"/>
