@@ -8,9 +8,8 @@
   - [Producer Consumer Thread Managment System](https://github.com/Gerardos0/producer-consumer-thread-managment-system/tree/master)
 - <b>Object Oriented Programming</b>  
   - [Bank System](https://github.com/Gerardos0/Bank-System.git)<br>
-    <div style="margin-left: 20px;">
-      [<sup>Bank System Docs</sup>](https://gerardos0.github.io/Bank-System/)
-    </div>
+  > [<sup>Bank System Docs</sup>](https://gerardos0.github.io/Bank-System/)  
+
 
 
 
