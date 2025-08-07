@@ -2,11 +2,6 @@
 
 <h2>My Java Projects:</h2>
 
-- <b>Operating Systems</b>
-
-  - [Simple Custom Unix Shell](https://github.com/Gerardos0/gerardosh.git)
-  - [Memory allocation and deallocation implementation](https://github.com/Gerardos0/memory_allocation-deallocation)
-  - [Producer Consumer Thread Managment System](https://github.com/Gerardos0/producer-consumer-thread-managment-system/tree/master)
 - <b>Object Oriented Programming</b>
   
   - [Bank System](https://github.com/Gerardos0/Bank-System.git)<br>
@@ -15,7 +10,11 @@
 - <b>Machine Learning</b>
 
   - [Disease Classification using Random Forest and Dense Nuero Network Models](https://github.com/Gerardos0/Disease-Classification-Using-Machine-Learning-Models/tree/master)
+- <b>Operating Systems</b>
 
+  - [Simple Custom Unix Shell](https://github.com/Gerardos0/gerardosh.git)
+  - [Memory allocation and deallocation implementation](https://github.com/Gerardos0/memory_allocation-deallocation)
+  - [Producer Consumer Thread Managment System](https://github.com/Gerardos0/producer-consumer-thread-managment-system/tree/master)
 
 
 
