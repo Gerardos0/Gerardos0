@@ -11,7 +11,10 @@
   
   - [Bank System](https://github.com/Gerardos0/Bank-System.git)<br>
   
-    > [<sup>Bank System Docs</sup>](https://gerardos0.github.io/Bank-System/)  
+    > [<sup>Bank System Docs</sup>](https://gerardos0.github.io/Bank-System/)
+- <b>Machine Learning</b>
+
+  - [Disease Classification using Random Forest and Dense Nuero Network Models](https://github.com/Gerardos0/Disease-Classification-Using-Machine-Learning-Models/tree/master)
 
 
 
