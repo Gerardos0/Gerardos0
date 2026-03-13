@@ -2,11 +2,6 @@
 
 <h2>My Projects:</h2>
 
-- <b>Object Oriented Programming</b>
-  
-  - [Bank System  |  Java](https://github.com/Gerardos0/Bank-System.git)<br>
-  
-    > [<sup>Bank System Docs</sup>](https://gerardos0.github.io/Bank-System/)
 - <b>Machine Learning</b>
 
   - [Lie Detector Using Natural Language Processing and Computer Vision | Python](https://github.com/Gerardos0/Lie-Detector-Deep-Learning-Project)
@@ -17,7 +12,11 @@
   - [Memory allocation and deallocation implementation  |  C](https://github.com/Gerardos0/memory_allocation-deallocation)
   - [Producer Consumer Thread Managment System  |  C](https://github.com/Gerardos0/producer-consumer-thread-managment-system/tree/master)
 
-
+- <b>Object Oriented Programming</b>
+  
+  - [Bank System  |  Java](https://github.com/Gerardos0/Bank-System.git)<br>
+  
+    > [<sup>Bank System Docs</sup>](https://gerardos0.github.io/Bank-System/)
 
 
 
