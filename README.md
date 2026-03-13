@@ -9,6 +9,7 @@
     > [<sup>Bank System Docs</sup>](https://gerardos0.github.io/Bank-System/)
 - <b>Machine Learning</b>
 
+  - [Lie Detector Using Natural Language Processing and Computer Vision | Python](https://github.com/Gerardos0/Lie-Detector-Deep-Learning-Project)
   - [Disease Classification using Random Forest and Dense Nuero Network Models  |  Python](https://github.com/Gerardos0/Disease-Classification-Using-Machine-Learning-Models/tree/master)
 - <b>Operating Systems</b>
 
